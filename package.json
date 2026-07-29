@@ -1,0 +1,21 @@
+{
+  "name": "playwright_practice_github",
+  "version": "1.0.0",
+  "description": "Playwright_Practice_Github and Github Actions",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sam108-coder/Playwright_Practice_Github.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sam108-coder/Playwright_Practice_Github/issues"
+  },
+  "homepage": "https://github.com/sam108-coder/Playwright_Practice_Github#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.0",
+    "@types/node": "^26.1.2"
+  }
+}
